@@ -93,6 +93,7 @@ Leaderboard (Tablet) ─┘
 ```bash
 git clone https://github.com/your-username/campus-feud.git
 cd campus-feud
+(Fill details in firebase.ts)
 npm install
 npm run dev
 ```
