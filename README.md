@@ -5,7 +5,12 @@ Designed to run seamlessly across **Display, Judge, and Leaderboard devices** wi
 
 ---
 
-#Sample Deplued URL - https://campus-feud.vercel.app/
+## Sample Deplued URLs - 
+  * Main Projection Site - https://campus-feud.vercel.app/
+  * Judge Portal - https://campus-feud.vercel.app/judge
+  * Leaderboard (Projection) - https://campus-feud.vercel.app/leaderboard
+  * Leaderboard Edit - https://campus-feud.vercel.app/leaderboard/edit
+
 
 ## ✨ Features
 
@@ -100,6 +105,13 @@ npm run dev
 
 ---
 
+## Demo Images -
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/abfa3b7c-513e-46e5-916d-933492d7dbeb" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6446c986-faaa-4ab5-853b-8dd5f2a24e0f" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c50a33a4-863f-4dcf-ab66-7f522c8c5f66" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/22778a39-2b36-49f6-8215-c39df47d8d6d" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9d20b5c2-15f5-4c94-9803-d0c83842ca14" />
+
 ## 🌟 Future Improvements
 
 * 🎉 Confetti + winner screen
@@ -110,6 +122,9 @@ npm run dev
 ---
 
 ## 👨‍💻 Author
+
+ISHAN RAJ SINGH
+https://www.linkedin.com/in/ishan-raj-singh/
 
 Built for high-impact live events and hackathon demos 🚀
 
